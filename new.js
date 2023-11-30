@@ -1,3 +1,5 @@
+window.location.reload(true);
+
 const hourE1 = document.getElementById("hour");
 const minuteE1 = document.getElementById("minutes");
 const secondE1 = document.getElementById("seconds");
